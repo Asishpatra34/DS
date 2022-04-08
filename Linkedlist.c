@@ -151,5 +151,3 @@ void display(struct node *ll){
     }  
     printf("\n\n");
 }
-
-
